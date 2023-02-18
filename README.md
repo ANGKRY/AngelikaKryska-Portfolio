@@ -25,6 +25,15 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 * Programuj dziewczyno!
 * Dare IT Community
 
+## My Projects
+
+### Bugs
+
+### Test cases
+
+### SQL
+
+### HTML/CSS
 
 
 

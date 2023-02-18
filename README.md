@@ -9,11 +9,27 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 * Chellenge 'Becom a manual tester', conducted by Patrycja Komor
 * Szkolenie SQL w 120 minut (www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* Frontend Web Development / podstawy JavaScript (https://pl.mate.academy/)
+* Frontend Web Development / basic JavaScript (free app from Mate Academy)
+
+## Tools
+
+* Jira - basic, creating bug reports
+* Slack - for communication within the team
+* Chrome DevTools - for testing and to improve bug reports
+* GitHub - basic, for creating portfolio
+* SQL - basic, relational database management system
+* JavaScript - the basics of the basics
+
+## IT groups on Facebook I follow
+
+* Programuj dziewczyno!
+* Dare IT Community
 
 
 
-('Become a manual tester', conducted by Patrycja Komor) 
+
+
+
 
 
 

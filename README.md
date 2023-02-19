@@ -8,12 +8,13 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 ## Courses
 
 * Chellenge 'Becom a manual tester', conducted by Patrycja Komor
-* Szkolenie SQL w 120 minut (www.kursysql.pl/szkolenie-sql-w-120-minut/)
+* Szkolenie SQL w 120 minut [Kurs SQL w 120 minut](www.kursysql.pl/szkolenie-sql-w-120-minut/)
 * Frontend Web Development / basic JavaScript (free app from Mate Academy)
+* English to B2 (still)
 
 ## Tools
 
-* Jira - group bug reporting [Link to group work in Jira]([https://www.google.com](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1))
+* Jira - group bug reporting [Link to group work in Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
 * Slack - for communication within the team
 * Chrome DevTools - for testing and to improve bug reports
 * GitHub - basic, for creating portfolio
@@ -29,7 +30,9 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ### Bugs
 
-### Test cases
+### Test case
+
+[Test case Pick Up Eat app](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
 
 ### SQL
 

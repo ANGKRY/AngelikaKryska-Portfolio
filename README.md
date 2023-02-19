@@ -13,7 +13,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## Tools
 
-* Jira - basic, creating bug reports
+* Jira - group bug reporting [Link to group work in Jira]([https://www.google.com](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1))
 * Slack - for communication within the team
 * Chrome DevTools - for testing and to improve bug reports
 * GitHub - basic, for creating portfolio

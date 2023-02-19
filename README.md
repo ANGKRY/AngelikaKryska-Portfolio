@@ -32,7 +32,8 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ### Test cases
 
-[Test cases base on User story for fOOTBALL Scouts Pane site](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit#gid=0)
+[Test cases base on User story for Football Scouts Pane site](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit#gid=0)
+
 [Test cases Pick Up Eat app](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
 
 

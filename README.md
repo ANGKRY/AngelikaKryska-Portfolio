@@ -30,6 +30,8 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ### Bugs
 
+[Bug on Football Scouts Panel website](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit#gid=0)
+
 ### Test cases
 
 [Test cases base on User story for Football Scouts Panel website](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit#gid=0)

@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-![](https://images.desenio.com/zoom/14186_2.jpg)
+[](https://images.desenio.com/zoom/14186_2.jpg)
 
 ## About me
 

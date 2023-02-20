@@ -12,7 +12,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## Courses
 
-🍐: Chellenge 'Becom a manual tester', conducted by Patrycja Komor ![Link to challenge portfolio](https://github.com/ANGKRY/challenge_portfolio_Angelika)
+🍐: Chellenge 'Zostań testerem manualnym', conducted by Patrycja Komor ![Link to challenge portfolio](https://github.com/ANGKRY/challenge_portfolio_Angelika)
 
 🍎: Training SQL in 120 minutes [Kurs SQL w 120 minut](www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
@@ -67,9 +67,3 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 
 ![](https://media.tenor.com/E9WUecaimKoAAAAC/want-i-know-what-i-want-and-im-gonna-get-it.gif)
-
-
-
-
-
-

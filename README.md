@@ -8,11 +8,11 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## Linkedin
 
-![My profile on Linkedin](https://www.linkedin.com/in/angelika-barbara-07925a7a/)
+[My profile on Linkedin](https://www.linkedin.com/in/angelika-barbara-07925a7a/)
 
 ## Courses
 
-🍐: Chellenge 'Zostań testerem manualnym', conducted by Patrycja Komor ![Link to challenge portfolio](https://github.com/ANGKRY/challenge_portfolio_Angelika)
+🍐: Chellenge 'Zostań testerem manualnym', conducted by Patrycja Komor [Link to challenge portfolio](https://github.com/ANGKRY/challenge_portfolio_Angelika)
 
 🍎: Training SQL in 120 minutes [Kurs SQL w 120 minut](www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
@@ -53,7 +53,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 [Bug on Football Scouts Panel website](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit#gid=0)
 [Group work i Jira on SwipeTo app](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
 
-![Bug on OLX app](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
+[Bug on OLX app](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
 
 ### Test cases
 

@@ -16,7 +16,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 * Frontend Web Development / basic JavaScript (free app from Mate Academy)
 
-* English to B2 (still)
+* English B2 (still)
 
 ## Tools
 

@@ -1,7 +1,5 @@
 # PORTFOLIO
 
-![](https://images.desenio.com/zoom/14186_2.jpg)
-
 ## About me
 
 My name is Angelika Kryska. I graduated from the Cracow University of Economics. Recently, I was employed in the Quality Management Department in one of Krakow's banks. I am currently in the process of changing my career path. I would like to become a software tester. I believe that my previous professional experience and willingness to learn and continuous development will allow me to spread my wings in the IT industry. I have experience in individual work and teamwork. I am open to changes and any news. I present my technical skills that I gained during the completed challenge / course and through self-study.
@@ -12,29 +10,29 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## Courses
 
-🍐: Chellenge 'Zostań testerem manualnym', conducted by Patrycja Komor (still) [Link to challenge portfolio](https://github.com/ANGKRY/challenge_portfolio_Angelika)
+* Chellenge 'Zostań testerem manualnym', conducted by Patrycja Komor (still) [Link to challenge portfolio](https://github.com/ANGKRY/challenge_portfolio_Angelika)
 
-🍎: Training SQL in 120 minutes [Kurs SQL w 120 minut](www.kursysql.pl/szkolenie-sql-w-120-minut/)
+* Training SQL in 120 minutes [Kurs SQL w 120 minut](www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
-🍍: Frontend Web Development / basic JavaScript (free app from Mate Academy)
+* Frontend Web Development / basic JavaScript (free app from Mate Academy)
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿: English to B2 (still)
+* English to B2 (still)
 
 ## Tools
 
-🌼: Jira - group bug reporting 
+* Jira - group bug reporting 
 
-🌻: Slack - for communication within the team
+* Slack - for communication within the team
 
-🥀: Chrome DevTools - for testing and to improve bug reports
+* Chrome DevTools - for testing and to improve bug reports
 
-💮: GitHub - basic, for creating portfolio
+* GitHub - basic, for creating portfolio
 
-🎠: SQL - basic, relational database management system
+* SQL - basic, relational database management system
 
-🦄: JavaScript - the basics of the basics
+* JavaScript - the basics of the basics
 
-🌬️: Xampp 
+* Xampp 
 
 ## IT groups on Facebook I follow
 
@@ -44,7 +42,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## My Projects
 
-### My bug reports
+### [Football Scouts]()
 
 [Bug reports](https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit)
 

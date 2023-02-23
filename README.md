@@ -6,7 +6,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## Linkedin
 
-[My profile on Linkedin](https://www.linkedin.com/in/angelika-barbara-07925a7a/)⭐
+⭐[My profile on Linkedin](https://www.linkedin.com/in/angelika-barbara-07925a7a/)
 
 ## Courses
 
@@ -32,9 +32,19 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 * Xampp 
 
-## Technology
+* Screenpresso
 
-* SQL - basic, relational database management system
+## Tech skills
+
+* SQL 
+
+* Manual testing
+ 
+* Writing test cases
+
+* Reporting Bugs
+
+* Making Bug reports
 
 ## IT groups on Facebook I follow
 
@@ -65,10 +75,5 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 ### [PickUpEat](https://pickeatup.io)
 
 [Test cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
-
-### SQL
-
-### HTML/CSS
-
 
 ![](https://media.tenor.com/E9WUecaimKoAAAAC/want-i-know-what-i-want-and-im-gonna-get-it.gif)

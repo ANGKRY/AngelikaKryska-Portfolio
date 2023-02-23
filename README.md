@@ -48,13 +48,13 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 [Test cases base on User expierience for Football Scouts Panel website](https://docs.google.com/spreadsheets/d/131yd2nYajoGlCBeDk5eO_olVVewJm-YwyJhoZn56tKs/edit#gid=0)
 
-[Bug on Football Scouts Panel website](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit#gid=0)
+[Bugs](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit#gid=0)
 
 [Bug reports](https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit)
 
 ### [SwipeTo](https://swipeto.pl/?utm_source=SEM&utm_medium=CPC&utm_term=ogolne&utm_content=txt&utm_campaign=SwipeTO_zima_2023&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJQ12xiDSQ5PJbUyGQZmlRcx0-yKAyM5ThstOmVslCmNkYuqm7waA_EaAuA5EALw_wcB)
 
-[Group work i Jira on SwipeTo app](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
+[Group work in Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
 
 ### [OLX](https://www.olx.pl/) 
 
@@ -62,7 +62,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ### PickUpEat(https://pickeatup.io)
 
-[Test cases Pick Up Eat app](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
+[Test cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
 
 ### SQL
 

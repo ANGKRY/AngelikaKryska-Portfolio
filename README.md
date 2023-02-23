@@ -76,4 +76,3 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 [Test cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
 
-![](https://media.tenor.com/E9WUecaimKoAAAAC/want-i-know-what-i-want-and-im-gonna-get-it.gif)

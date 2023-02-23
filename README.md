@@ -28,11 +28,13 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 * GitHub - basic, for creating portfolio
 
-* SQL - basic, relational database management system
-
 * JavaScript - the basics of the basics
 
 * Xampp 
+
+## Technology
+
+* SQL - basic, relational database management system
 
 ## IT groups on Facebook I follow
 
@@ -60,7 +62,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 [Bug on OLX app](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
 
-### PickUpEat(https://pickeatup.io)
+### [PickUpEat](https://pickeatup.io)
 
 [Test cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit#gid=0)
 

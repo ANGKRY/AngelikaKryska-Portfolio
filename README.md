@@ -44,7 +44,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 * Reporting Bugs
 
-* Making Bug reports
+* Making Bugs reports
 
 ## IT groups on Facebook I follow
 

@@ -70,7 +70,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ### [OLX](https://www.olx.pl/) 
 
-[Bugs on OLX app](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
+[Bugs](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
 
 ### [PickUpEat](https://pickeatup.io)
 

@@ -62,7 +62,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 [Bugs](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit#gid=0)
 
-[Bugs report](https://docs.google.com/presentation/d/1YkQ3vwqDQJXcEG9K5xzUtg-iYolldZOJ/edit?usp=share_link&ouid=116269363705844167593&rtpof=true&sd=true)
+[Test report](https://docs.google.com/presentation/d/1YkQ3vwqDQJXcEG9K5xzUtg-iYolldZOJ/edit?usp=share_link&ouid=116269363705844167593&rtpof=true&sd=true)
 
 ### [SwipeTo](https://swipeto.pl/?utm_source=SEM&utm_medium=CPC&utm_term=ogolne&utm_content=txt&utm_campaign=SwipeTO_zima_2023&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJQ12xiDSQ5PJbUyGQZmlRcx0-yKAyM5ThstOmVslCmNkYuqm7waA_EaAuA5EALw_wcB)
 

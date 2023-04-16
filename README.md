@@ -50,9 +50,9 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## IT groups on Facebook I follow
 
-👧: Programuj dziewczyno!
+👧 Programuj dziewczyno!
 
-👨‍👩‍👧‍👦: Dare IT Community
+👨‍👩‍👧‍👦 Dare IT Community
 
 Tester oprogramowania- wsparcie na starcie
 

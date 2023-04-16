@@ -68,7 +68,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 [Group work in Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
 
-### OLX 
+### [OLX](https://www.olx.pl/)
 
 [Bugs](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
 

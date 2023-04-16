@@ -34,6 +34,8 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 * Screenpresso
 
+* mySQL
+
 ## Tech skills
 
 * SQL 
@@ -51,6 +53,10 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 👧: Programuj dziewczyno!
 
 👨‍👩‍👧‍👦: Dare IT Community
+
+Tester oprogramowania- wsparcie na starcie
+
+Testowanie oprogramowania
 
 ## My Projects
 

@@ -6,7 +6,7 @@ My name is Angelika Kryska. I graduated from the Cracow University of Economics.
 
 ## Linkedin
 
-⭐[My profile on Linkedin](https://www.linkedin.com/in/angelika-barbara-07925a7a/)
+⭐[My profile on Linkedin](https://www.linkedin.com/in/angelika-kryska-07925a7a/)
 
 ## Courses
 
